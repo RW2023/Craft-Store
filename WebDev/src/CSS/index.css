@@ -44,4 +44,16 @@
          
             color: Blue;
             font-weight: bold;
-        }
+     }
+
+    #brush {
+            background-color: MediumSpringGreen;
+    }
+
+    #frame {
+        background-color: LightCoral;
+    }
+
+    .paint {
+        background-color: SkyBlue;
+    }
