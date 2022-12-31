@@ -2,9 +2,9 @@
         font-family: Helvetica, Arial, sans-serif;
         }
 
-    header {
+    /*header {
         
-        }
+        }*/
 
     h1 {
         background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
@@ -39,3 +39,9 @@
     .items{
         font-family: Helvetica;
     }
+
+    .price{
+         
+            color: Blue;
+            font-weight: bold;
+        }
